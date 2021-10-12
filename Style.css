@@ -1,0 +1,31 @@
+h1{
+    color: #8A2BE2;
+}
+*{
+    color: #000000;
+}
+
+.header{
+    background-color:#7FFFD4;
+    display: flex;
+    justify-content: space-between;
+}
+.subtitle{
+    background-color:#44E912;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.menu{
+    background-color:#CA26A1;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.footer{
+    background-color:#FF0000;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
